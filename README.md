@@ -1,4 +1,4 @@
 # audioReactive3D
 prototyping a 3D audioReactive application in openFrameworks
 
-GUI items OSC controllable via Port 12001
+All GUI items OSC controllable via Port 12346 (use the accompanying maxMSP patch)
